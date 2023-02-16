@@ -1,0 +1,75 @@
+/* Author:AKSHAYA GOPALAKRISHNAN */
+.image1 {
+    width: 70%;
+}
+.icon {
+    width: 5%;
+}
+.f1 {
+    width: 100%;
+}
+.html5 {
+    display: flex;
+}
+.borderbottom1 {
+    margin-top: 10px;
+    border-bottom: 2px solid red;
+    padding-bottom: 10px;
+    width: 58%;
+}
+.borderbottom2 {
+    margin-top: 10px;
+    border-bottom: 2px solid red;
+    padding-bottom: 10px;
+    width: 90%;
+}
+.borderbottom3 {
+    margin-top: 10px;
+    border-bottom: 2px solid red;
+    padding-bottom: 10px;
+    width: 75%;
+}
+.borderbottom4 {
+    margin-top: 10px;
+    border-bottom: 2px solid red;
+    padding-bottom: 10px;
+    width: 55%;
+}
+.chat {
+    border: 2px solid black;
+    width: 10%;
+    background-color: black;
+    color: white;
+    padding: 2px;
+    height: 12%;
+}
+.css3 {
+    display: flex;
+}
+.php {
+    display: flex;
+}
+.js {
+    display: flex;
+}
+.hov:hover {
+    transform: scale(1.5);
+}
+.none {
+    width: 27.5%;
+}
+.inp {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+@media screen and (max-width: 576px) {
+    .align {
+        text-align: center;
+    }
+    .mar {
+        margin-top: 10%;
+    }
+}
